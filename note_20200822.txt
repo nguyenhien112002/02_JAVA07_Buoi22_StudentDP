@@ -1,0 +1,7 @@
+buoi 22
+contructor injection
+settor injection
+field injection
+
+componend khoi tao
+componendscan doi tuong
