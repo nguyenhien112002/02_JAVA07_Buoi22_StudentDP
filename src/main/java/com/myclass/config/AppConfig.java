@@ -16,7 +16,7 @@ public class AppConfig {
     public List<SinhVien> students(){
         List<SinhVien> listSV = null;
         listSV = new ArrayList<SinhVien>();
-        listSV.add(new SinhVien(1, "test1@gmail.com", "nguyen van A", "HN", "0968148197"));
+        listSV.add(new SinhVien(1, "test1@gmail.com", "nguyen van A", "HN", "0968148196"));
         listSV.add(new SinhVien(2, "test2@gmail.com", "nguyen van B", "DN", "0968148198"));
         listSV.add(new SinhVien(3, "test3@gmail.com", "nguyen van C", "HCM", "0968148199"));
         return listSV;
